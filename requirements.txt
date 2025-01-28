@@ -65,6 +65,7 @@ opentelemetry-util-http==0.50b0
 orjson==3.10.15
 overrides==7.7.0
 packaging==24.2
+pandas==2.2.3
 parso==0.8.4
 pexpect==4.9.0
 platformdirs==4.3.6
@@ -83,6 +84,7 @@ PyPika==0.48.9
 pyproject_hooks==1.2.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
+pytz==2024.2
 PyYAML==6.0.2
 pyzmq==26.2.0
 requests==2.32.3
@@ -102,6 +104,7 @@ tqdm==4.67.1
 traitlets==5.14.3
 typer==0.15.1
 typing_extensions==4.12.2
+tzdata==2025.1
 urllib3==2.3.0
 uvicorn==0.34.0
 uvloop==0.21.0
